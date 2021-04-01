@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PechenyiAleksey
-- 👀 I’m interested in: : web development, application development.
+- 👀 I’m interested in:web development, application development.
 - 🌱 I’m currently learning Html, CSS, JS, Bootstrap, React,
 - 📫 How to reach me: pechenyialeksey21@gmail.com
 
